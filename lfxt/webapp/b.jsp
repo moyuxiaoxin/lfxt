@@ -10,6 +10,7 @@
 <body>
 请稍后，数据上传中。。。。。。。。
 <%
+	//远程仓库修改
 	WriterWJ r = new WriterWJ();
 	r.createFile();
 	int gg=0;
