@@ -1,0 +1,45 @@
+/*这里是产品单页TAB*/
+
+#tab{
+	height:auto;
+	margin:0 auto;	 
+}
+#tab ul{
+	list-style:none;
+	background-image: url(../images/xth_13.gif);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	height: 31px;
+	width: 100%;
+}
+#tab li{
+	float:left;
+	height:30px;
+	text-align:center;
+	line-height:30px;
+	color:#FFFFFF;
+	width:111px;
+	position:relative;
+	font-size: 12px;
+	font-weight: normal;
+	background-color: #FFFFFF;
+	background-image: url(../images/xth_12.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-right: 5px;
+	cursor: hand;
+}/*margin;那里调节各个li之间的距离,position是保证下边框的出现*/
+.dise{display:block;}
+.undise{display:none;}
+#tab .fff{
+	background-image: url(../images/xth_11.gif);
+	height: 31px;
+	width: 111px;
+	font-size: 13px;
+	font-weight: bold;
+	background-repeat: no-repeat;
+	color: #007BBA;
+}
+#all{
+	clear:left;
+}

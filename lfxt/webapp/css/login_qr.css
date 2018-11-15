@@ -1,0 +1,175 @@
+/* CSS Document */
+* {
+	padding:0px;
+	margin: 0px;
+}
+html {
+	WIDTH: 100%;
+	height: 100%;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+body {
+	PADDING: 0px;
+	COLOR: #000000;
+	TEXT-ALIGN: center;
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	background-color: #FFFFFF;
+	margin: 0px;
+	width: 100%;
+	background-image: url(../images/hh_01.gif);
+	height: 100%;
+	background-repeat: repeat-x;
+	background-position: center top;
+}
+.login_nav {
+	background-image: url(../images/login_bgqr.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 602px;
+	width: 1002px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.login_nav_left {
+	height: 190px;
+	width: 250px;
+	float: left;
+	margin-top: 220px;
+	margin-left: 555px;
+}
+.login_nav_right {
+	height: 280px;
+	width: 350px;
+	float: right;
+	margin-top: 160px;
+	margin-right: 155px;
+}
+.login_tab01 {
+	line-height: 38px;
+	color: #323232;
+}
+.login_input01 {
+	border: 1px solid #CFCFCF;
+	height: 28px;
+	background-image: url(../images/login_01.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	vertical-align: middle;
+	padding-left: 24px;
+	width: 144px;
+	line-height: 28px;
+}
+.login_input02 {
+	border: 1px solid #CFCFCF;
+	height: 28px;
+	background-image: url(../images/login_02.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	vertical-align: middle;
+	padding-left: 24px;
+	width: 144px;
+	line-height: 28px;
+}
+.login_input03 {
+	border: 1px solid #CFCFCF;
+	height: 28px;
+	line-height: 28px;
+	background-image: url(../images/login_06.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+	vertical-align: middle;
+}
+.login_but01 {
+	line-height: 27px;
+	background-image: url(../images/login_03.gif);
+	background-repeat: no-repeat;
+	height: 27px;
+	width: 63px;
+	color: #FFFFFF;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.login_but02 {
+	line-height: 27px;
+	background-image: url(../images/login_04.gif);
+	background-repeat: no-repeat;
+	height: 27px;
+	width: 63px;
+	color: #FFFFFF;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.register_nav {
+	background-image: url(../images/xth_07.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 1002px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	height: 980px;
+}
+.register_nav_02 {
+	background-image: url(../images/xth_10.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	height: 780px;
+	padding: 120px;
+	padding-bottom: 60px;
+}
+.register_nav_top {
+	line-height: 40px;
+	height: 40px;
+	padding-top: 6px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #BBDAEB;
+}
+.register_top_left {
+	height: 30px;
+	width: 100px;
+	float: left;
+	padding-top: 6px;
+}
+.register_top_right {
+	float: right;
+	width: 140px;
+	height: 40px;
+}
+.register_nav_ztxx {
+	padding: 30px;
+}
+.register_tab01 {
+	color: #333333;
+	line-height: 28px;
+}
+.register_tab01 td {
+	padding: 4px;
+}
+.register_input01 {
+	background-color: #E9EDF1;
+	border: 1px solid #C2CDDA;
+	line-height: 25px;
+	height: 25px;
+	padding-left: 4px;
+}
+.register_select01 {
+	background-color: #E9EDF1;
+	border: 1px solid #C2CDDA;
+	line-height: 22px;
+	height: 22px;
+	width: 220px;
+	color: #333333;
+}
