@@ -11,6 +11,7 @@
 请稍后，数据上传中。。。。。。。。
 <%
 	//远程仓库修改
+	//本地更改文件
 	WriterWJ r = new WriterWJ();
 	r.createFile();
 	int gg=0;
